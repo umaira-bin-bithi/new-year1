@@ -1,0 +1,551 @@
+*{
+    margin: 0;
+    padding: 0;
+   font-family: 'Merriweather', serif;
+}
+
+/* first part  */
+.banner{
+     width: 1100px; 
+     height: 500px; 
+     background-image: url("image/Banner Image.png"); 
+      margin: 40px auto  0px auto;  
+      border-radius: 16px; 
+     background-size: contain; 
+     background-repeat: no-repeat; 
+    
+   
+     
+     
+ } 
+ .banner{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("image/Banner Image.png");
+ }
+
+
+
+.New{
+    width: 259px;
+    height: 40px;
+    font-size: 30px;
+    margin: 0px auto;
+   padding-top: 100px;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    
+    
+}
+
+.content{
+    width: 632px;
+    height: 190px;
+    font-weight: 900;
+    color: rgba(255, 255, 255, 1);
+    font-size: 72px;
+    line-height: 95px;
+    text-align: center;
+    margin: 0px auto;
+   
+
+
+}
+
+/*  part-1 */
+
+.offer{
+    color:red;
+    font-weight: 900;
+    text-align: center;
+    font-size: 88px;
+    margin-top: 50px;
+    line-height: 106.5px;
+}
+
+.holiday{
+    color: rgba(255, 0, 0, 1);
+    font-weight: 500;
+    text-align: center;
+    line-height: 29.05px;
+    font-size: 21px;
+    margin-top: 30px;
+}
+
+.all-categories{
+    color: black;
+    font-size: 48px;
+    text-align: center;
+    line-height: 58.09px;
+    font-weight: 700;
+}
+
+.new-year-photo{
+    
+    background-image: url("image/New Year Photo.png");
+    width:500px;
+    height:300px;
+   margin: 20px auto 0px auto;
+    background-size:cover;
+}
+
+/* part-2 */
+.section2{
+    width: 1100px; 
+    height: 500px; 
+    background-image: url("image/Vectorrr.png"); 
+     margin: 50px auto  0px auto;  
+     border-radius: 16px; 
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-image: url("image/Group 70.png"); 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("image/Vectorrr.png");
+}
+
+.content1{
+    width: 646px;
+    height: 176px;
+}
+.content1 h3{
+
+    color: rgba(255, 255, 255, 1);
+    font-weight: 900;
+     padding: 100px 0px 0px 70px;
+    font-size: 64px;
+
+}
+.dolor{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 13px;
+       padding: 10px 0px 0px 70px;
+
+}
+.button{
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-size: 20px;
+    width: 103px;
+    height: 24px;
+    padding: 50px 0px 0px 100px;
+}
+.image{
+    
+     margin:50px 0px 0px 20px;
+    
+}
+.vector{
+    display: flex;
+}
+
+/* part-3 */
+.section3{
+   width: 1100px;
+   height: 300px;
+   background-image: linear-gradient(#e6a5a5, #FF000000);
+   margin: 50px auto 0px auto;
+   line-height: 40px;
+   text-align: center;
+   border-radius: 8px;
+   
+   
+
+ 
+  
+}
+
+.items{
+    
+    color: black;
+    font-weight: 600;
+    
+    
+    
+    
+}
+.items span{
+    color: red;
+}
+.section3 button{
+    background-color: red;
+    width: 100px;
+    height: 30px;
+   
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    border-radius: 8px;
+    border-color: red;
+}
+
+.items1{
+    padding-top: 88px;
+}
+/* part-4 */
+  .section4{
+   width:1100px;
+    height: 250px;
+    display: flex;
+     gap: 150px; 
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 0px auto 0px auto;
+}
+    
+ 
+
+
+
+
+.div2{
+    width: 300px;
+  
+}
+
+.border1{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    border: 7px solid red;
+    margin-right: 20px;
+}
+.border2{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid green;
+    background-image: url("image/Ellipse 1.png");
+    background-size: cover;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 20px;
+}
+.div1 span{
+ color:red;
+ font-size: 15px;
+ font-weight: 700;
+ padding-left: 15%;
+ 
+}
+.div1 h1{
+   
+    padding-left: 18%;
+    color: black;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.div1 p{
+    color: rgba(7, 2, 17, 0.6);
+    font-size: 13px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-left: 15%;
+}
+.div1{
+    padding-top: 30px;
+    width: 300px;
+   padding-left: 8%; 
+    
+}
+.div3{
+   
+    margin-right: 0;
+    width: 300px;
+
+}
+
+.div3 h1{
+    color:red;
+    padding-top: 20px;
+    width: 300px;
+    font-size: 50px;
+    font-weight: 700;
+    padding-right: 8;
+}
+.div3 p{
+   font-weight: 500;
+   padding-top: 10px ;
+   font-size: 13px;
+   color:rgba(7, 2, 17, 0.6); 
+   padding-right: 8%;
+}
+
+
+/* part-5 */
+.section5{
+    width: 1100px;
+    height: 700px;
+    
+    margin: 0px auto 0px auto;
+    text-align: center;
+}
+
+
+
+.section5 p{
+    font-size: 15px;
+    font-weight: 900;
+    color:black
+
+
+}
+.section5 span{
+    color:red
+}
+.section5 h1{
+    font-size: 72px;
+    padding: 30px;
+    font-weight: 700;
+}
+.section5 p{
+    color:rgba(7, 2, 17, 0.6);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 32px;
+    padding-left: 15%;
+    padding-right: 10%;
+}
+.rectangle2{
+    background-image: url("image/Rectangle 2.png");
+    width: 1100px;
+    height: 150px;
+    margin-bottom: 1000px;
+    margin: 0px auto 0px auto;
+  
+}
+.container{
+    display: flex;
+    margin-top: 30px;
+}
+.img3{
+    position: absolute;
+    mix-blend-mode: screen;
+    margin-top: 48px; 
+    margin-left: 15.8%;
+    mask-mode: screen;
+
+
+}
+.img1{
+    margin-top: 60px;
+/*mix-blend-mode: screen;*/
+background-blend-mode: screen;
+}
+
+.img2{
+    left: 90px;
+    margin-top: 160px;
+    margin-left: 9%;
+    margin-right: 0%;
+
+
+    
+}
+/* part-6 */
+.section6{
+    
+    width:1100px;
+    height:1050x;
+    margin: 60px auto 0px auto;}
+.products{
+    transition: 1s;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-size: contain;
+        width: 100%;
+        height: 600px;
+        display: block;
+        border-radius: 5px;
+        
+}
+.img{
+    width: 100%;
+    max-height: 420px;
+    display: block;
+    gap: 5px;
+    transition: 1s;
+    font-size: small;
+    
+    border-top: 15px;
+}
+.img:hover{
+      transform: scale(1.1);
+      z-index: 0.1;  
+}
+.rec1{
+    width: 360px;
+    height: 750px;
+    border-radius: 0%;
+    background-image: url("image/Rectangle 3.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -15%;
+}
+.rec2{
+    width: 360px;
+    height: 750px;
+    
+    background-image:url("image/Rectangle 4.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -15%;
+    
+}
+.rec3{
+    width: 360px;
+    height: 750px;
+   
+    background-image: url("image/Rectangle 5.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -15%;
+    
+    
+}
+.products{
+    display: flex;
+    gap: 15px;
+    width: 100%;
+    
+}
+.section6 span{
+    color: red;
+    font-weight: 900;
+    font-size: 24px;
+ 
+
+}
+.section6 h1{
+    font-size: 54px;
+}
+.section6 p{
+    color: rgba(7, 2, 17, 0.6);
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+.rec4{
+    width: 360px;
+    height: 750px;
+    background-image: url("image/Rectangle 6.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -65%;
+    
+}
+.rec5{
+    width: 360px;
+    height: 750px;
+    background-image: url("image/Rectangle 7.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -65%;
+    
+
+}
+.rec6{
+    width: 360px;
+    height: 750px;
+    background-image: url("image/Rectangle 8.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -65%;
+    
+}
+/* part-7 */
+.panel{
+    width: 1100px;
+    height: 400px;
+    background-color: rgba(255, 0, 0, 0.05);
+    margin: 0px auto 0px auto;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: -8%;
+    
+}
+
+.panel input{
+    font-size: 12px;
+    padding:30px;
+    width: 290px;
+     height: 10px; 
+    background-color: rgba(255, 255, 255, 1);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: none;
+}
+.panel button{
+    background-color: red;
+    color:white;
+    text-align: center;
+    font-size: 12px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: none;
+    padding:30px;
+    width:110px;
+}
+.panel input[type="text"]
+{
+    font-size: 12px;
+}
+
+.panel p{
+    color: rgba(7, 2, 17, 0.6);
+    font-size: 15px;
+    font-weight: 400;
+    padding: 30px;
+}
+
+.panel h3{
+    font-size: 50px;
+}
+
+/* last part */
+.footer{
+    width: 1100px;
+    height: 80px;
+    border-bottom: 1px solid rgba(255, 255, 255, 1);
+    margin:50px auto 0px auto;
+    background-color: rgba(7, 2, 17, 1);
+    color:rgba(255, 255, 255, 1);
+   padding-top: 50px;
+   font-size: 12px;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-around;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(7, 2, 17, 1); 
+    width:1100px;
+    height:70px;
+    border-bottom:1px solid rgba(255, 255, 255, 1);
+    margin: 0px auto 0px auto;
+    gap: 12px;
+    transition: 1;
+    
+}
+.form{
+    transition: 1s;
+}
+.form:hover{
+    transform: scale(1.2);
+      z-index: 0.1; 
+}
+.footer-phn{
+    display: block;
+}
+
+
+.last{
+    background-color: rgba(7, 2, 17, 1);
+    height: 100px;
+    width: 1100px;
+    margin: 0px auto 0px auto;
+    display: flex;
+    justify-content: space-around;
+    color: rgba(255, 255, 255, 1);
+    padding-top: 40px;
+    font-size: 12px;
+}
+
